@@ -13,7 +13,7 @@ It takes me 12 hours to complete this assingment.
 
 
 3. What online resources did you consult when completing this assignment? (list sites like StackOverflow or specific URLs for tutorials; describe queries to Generative AI or use of AI-based code completion)
-I used chatgpt to review the topic we learned from class and asked gpt to provid more examples.
+I used chatgpt to review the topic we learned from class and asked gpt to provid more examples, and ask for feedback and help with git.
 
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?

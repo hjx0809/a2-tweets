@@ -33,7 +33,7 @@ function updateSearchResults() {
 	// An empty query should clear the table rather than match every tweet.
 	if (searchText !== "") {
 		matchingTweets = tweetsWithComments.filter(function(tweet) {
-			return tweet.writtenText.toLowerCase().indexOf(searchText.toLowerCase()) !== -1;
+			return tweet.fullText.toLowerCase().indexOf(searchText.toLowerCase()) !== -1;
 		});
 	}
 
